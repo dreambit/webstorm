@@ -4,14 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*.c</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -19,8 +13,6 @@
       <mask>*.s</mask>
       <mask>*.ex</mask>
       <mask>*.es7</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -32,10 +24,18 @@
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
       <mask>*.tsx</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gri</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
