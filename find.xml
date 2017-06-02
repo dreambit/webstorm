@@ -4,9 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.tsx" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.c</mask>
       <mask>*.ex</mask>
       <mask>*.es7</mask>
@@ -34,8 +33,9 @@
       <mask>*.e</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
-      <mask>*.tsx</mask>
       <mask>*.ts</mask>
+      <mask>*.tsd</mask>
+      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
