@@ -23,17 +23,17 @@
       <mask>*.еы</mask>
       <mask>*.е</mask>
       <mask>*.tsc</mask>
-      <mask>*.j</mask>
-      <mask>*.es6x</mask>
-      <mask>*.es6</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.jsx</mask>
       <mask>*.tsx</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.ls</mask>
       <mask>*.l</mask>
+      <mask>*.jsx</mask>
+      <mask>*.j</mask>
+      <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
