@@ -26,13 +26,13 @@
       <mask>*.l</mask>
       <mask>*.H</mask>
       <mask>*.jss</mask>
-      <mask>*.jsx</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
+      <mask>*.j</mask>
       <mask>*.es6</mask>
       <mask>*.</mask>
+      <mask>*.jsx</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.e</mask>
       <mask>*.es</mask>
       <mask>*.es6x</mask>
