@@ -2,11 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.tsx" />
+    <option name="FILE_MASK" value="*.es6x" />
     <recentFileMasks>
       <mask>*.еыч</mask>
       <mask>*.еы</mask>
@@ -30,14 +28,14 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.es6</mask>
+      <mask>*.tsx</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.e</mask>
       <mask>*.es</mask>
+      <mask>*.es6</mask>
       <mask>*.es6x</mask>
-      <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.tsx</mask>
     </recentFileMasks>
   </component>
 </application>
