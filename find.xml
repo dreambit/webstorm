@@ -2,42 +2,40 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.е</mask>
-      <mask>*.tsc</mask>
-      <mask>*.ls</mask>
-      <mask>*.l</mask>
-      <mask>*.H</mask>
-      <mask>*.jss</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>e</mask>
-      <mask>*.te</mask>
-      <mask>*.txs</mask>
-      <mask>*.tx</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*es</mask>
-      <mask>*e</mask>
-      <mask>*</mask>
-      <mask>*.es6</mask>
       <mask>*.t</mask>
-      <mask>*.ts</mask>
-      <mask>*.tsx</mask>
+      <mask>*.gri</mask>
+      <mask>*.groo</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
+      <mask>*.g</mask>
       <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.js</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.ja</mask>
+      <mask>*</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.ajva</mask>
+      <mask>*.ajv</mask>
+      <mask>*.aj</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
