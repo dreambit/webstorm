@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="es6" approved="true" type="ECMAScript 6" />
       <mapping ext="es6x" type="JSX Harmony" />
+      <mapping ext="es6" type="JavaScript" />
       <mapping pattern="ff" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="xlt" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="PortfolioAssetsListContainer" type="TypeScript JSX" />
     </extensionMap>
   </component>
