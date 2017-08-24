@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.sq</mask>
       <mask>*.ja</mask>
@@ -25,10 +25,6 @@
       <mask>*.w</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.ex6</mask>
       <mask>*.ex</mask>
       <mask>*.jsx</mask>
@@ -39,6 +35,10 @@
       <mask>*.es</mask>
       <mask>*.es6</mask>
       <mask>*.es6x</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
