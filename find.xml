@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.es6x" />
     <recentFileMasks>
       <mask>*.ja</mask>
       <mask>*.xm</mask>
@@ -31,14 +31,14 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.j</mask>
       <mask>*.es5</mask>
-      <mask>*.es6x</mask>
-      <mask>*.es6</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.e</mask>
+      <mask>*.es</mask>
+      <mask>*.es6</mask>
+      <mask>*.es6x</mask>
     </recentFileMasks>
   </component>
 </application>
