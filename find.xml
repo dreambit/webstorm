@@ -10,8 +10,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.propestir</mask>
-      <mask>*.propestie</mask>
       <mask>*.propesties</mask>
       <mask>*.p</mask>
       <mask>*.pr</mask>
@@ -26,19 +24,21 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.j</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.jav</mask>
+      <mask>*.jsq</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
