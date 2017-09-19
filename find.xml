@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.es6x" />
     <recentFileMasks>
       <mask>*.ajv</mask>
       <mask>*.aj</mask>
@@ -27,14 +27,14 @@
       <mask>*.es6z</mask>
       <mask>*.k</mask>
       <mask>*</mask>
-      <mask>*.es6x</mask>
-      <mask>*.jsx</mask>
-      <mask>*.j</mask>
-      <mask>*.es6</mask>
-      <mask>*.es</mask>
-      <mask>*.e</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.jsx</mask>
+      <mask>*.j</mask>
+      <mask>*.e</mask>
+      <mask>*.es</mask>
+      <mask>*.es6</mask>
+      <mask>*.es6x</mask>
     </recentFileMasks>
   </component>
 </application>
