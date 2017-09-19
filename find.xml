@@ -11,7 +11,6 @@
       <mask>*.java</mask>
       <mask>*es</mask>
       <mask>*e</mask>
-      <mask>*</mask>
       <mask>*.w</mask>
       <mask>*.jso</mask>
       <mask>*.json</mask>
@@ -27,12 +26,13 @@
       <mask>*.s</mask>
       <mask>*.es6z</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
+      <mask>*</mask>
       <mask>*.j</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
-      <mask>*.es6</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
     </recentFileMasks>
