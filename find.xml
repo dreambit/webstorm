@@ -6,12 +6,16 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.jsq</mask>
       <mask>*.sq</mask>
+      <mask>*.s</mask>
       <mask>*.sql</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
@@ -26,18 +30,14 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.es6</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
