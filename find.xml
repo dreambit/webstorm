@@ -4,11 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
-      <mask>*.propertie</mask>
       <mask>*.properties</mask>
       <mask>*.jsq</mask>
       <mask>*.sq</mask>
@@ -24,17 +21,21 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.e</mask>
-      <mask>*.es</mask>
-      <mask>*.es6</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.офмф</mask>
+      <mask>*.офм</mask>
+      <mask>*.оф</mask>
+      <mask>*.о</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
