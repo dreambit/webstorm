@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jsq</mask>
       <mask>*.sq</mask>
@@ -15,7 +15,6 @@
       <mask>*.x</mask>
       <mask>*</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -28,7 +27,6 @@
       <mask>*.prop</mask>
       <mask>*.prope</mask>
       <mask>*.properties</mask>
-      <mask>*.java</mask>
       <mask>*.g</mask>
       <mask>*.gri</mask>
       <mask>*.gr</mask>
@@ -36,6 +34,8 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
