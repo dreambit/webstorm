@@ -4,38 +4,38 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.jsq</mask>
       <mask>*.sq</mask>
-      <mask>*.s</mask>
       <mask>*.sql</mask>
-      <mask>*</mask>
-      <mask>*.jav</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.es</mask>
-      <mask>*.es6x</mask>
-      <mask>*.es6</mask>
-      <mask>*.e</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.prope</mask>
-      <mask>*.properties</mask>
       <mask>*.g</mask>
-      <mask>*.gri</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.ja</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.ks</mask>
+      <mask>*.k</mask>
+      <mask>*.es6x</mask>
+      <mask>*.jsx</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
