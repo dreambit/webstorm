@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
@@ -27,14 +27,14 @@
       <mask>*.es6x</mask>
       <mask>*.es6</mask>
       <mask>*.e</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
