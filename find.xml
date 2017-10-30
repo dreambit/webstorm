@@ -3,19 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*Controller*.java" />
     <recentFileMasks>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*</mask>
       <mask>*оы</mask>
@@ -35,6 +24,17 @@
       <mask>*.es</mask>
       <mask>*.es6</mask>
       <mask>*.es6x</mask>
+      <mask>*.java</mask>
+      <mask>C**.java</mask>
+      <mask>**.java</mask>
+      <mask>*C*.java</mask>
+      <mask>*Co*.java</mask>
+      <mask>*Con*.java</mask>
+      <mask>*Cont*.java</mask>
+      <mask>*Contr*.java</mask>
+      <mask>*Contro*.java</mask>
+      <mask>*Controlle*.java</mask>
+      <mask>*Controller*.java</mask>
     </recentFileMasks>
   </component>
 </application>
