@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*Contr*.java</mask>
       <mask>*Contro*.java</mask>
@@ -24,19 +24,19 @@
       <mask>*.уы6</mask>
       <mask>*.уы</mask>
       <mask>*.у</mask>
-      <mask>*.jsx</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.es6</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.ex</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
