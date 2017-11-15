@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
-      <mask>*Co*.java</mask>
-      <mask>*Con*.java</mask>
       <mask>*Cont*.java</mask>
       <mask>*Contr*.java</mask>
       <mask>*Contro*.java</mask>
@@ -14,27 +12,29 @@
       <mask>*Controller*.java</mask>
       <mask>*</mask>
       <mask>*.h</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.es6x</mask>
       <mask>*.es6</mask>
       <mask>*.es</mask>
-      <mask>*.e</mask>
-      <mask>*.k</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.офмф</mask>
-      <mask>*.офм</mask>
-      <mask>*.оф</mask>
-      <mask>*.о</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
+      <mask>*.k</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.e</mask>
+      <mask>*.es6x</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
+      <mask>*.s</mask>
+      <mask>*.уы6ч</mask>
+      <mask>*.уы6</mask>
+      <mask>*.уы</mask>
+      <mask>*.у</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
