@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.уы6ч</mask>
       <mask>*.уы6</mask>
@@ -18,10 +18,6 @@
       <mask>*.ысы</mask>
       <mask>*.ыс</mask>
       <mask>*.ы</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.jx</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
@@ -33,10 +29,14 @@
       <mask>*.ts</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
-      <mask>*.es6</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
