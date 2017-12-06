@@ -12,11 +12,7 @@
       <mask>*.jx</mask>
       <mask>*.js</mask>
       <mask>*.jsx</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.prop</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.pro</mask>
       <mask>*.prope</mask>
@@ -25,15 +21,19 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*.j</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
