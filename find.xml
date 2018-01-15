@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
+    <option name="FILE_MASK" value="*.es6" />
     <recentFileMasks>
       <mask>*.x</mask>
       <mask>*.ысыы</mask>
@@ -33,8 +33,8 @@
       <mask>*.</mask>
       <mask>*.e</mask>
       <mask>*.es</mask>
-      <mask>*.es6</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
     </recentFileMasks>
   </component>
 </application>
