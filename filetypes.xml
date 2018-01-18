@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="es6x" type="JSX Harmony" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="Placeholder" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
