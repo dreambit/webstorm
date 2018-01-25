@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*.ыс</mask>
       <mask>*.ы</mask>
@@ -19,7 +19,6 @@
       <mask>*.уы6</mask>
       <mask>*.уы</mask>
       <mask>*.у</mask>
-      <mask>*.jsx</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
@@ -35,6 +34,7 @@
       <mask>*.es6</mask>
       <mask>*.es6x</mask>
       <mask>*.scss</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
