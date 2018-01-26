@@ -22,7 +22,6 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*</mask>
@@ -34,6 +33,7 @@
       <mask>*.es6</mask>
       <mask>*.jsx</mask>
       <mask>*.es6x</mask>
+      <mask>*.css</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
