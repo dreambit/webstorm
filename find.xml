@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*.ы</mask>
       <mask>*.jx</mask>
@@ -30,13 +30,13 @@
       <mask>*.j</mask>
       <mask>*.e</mask>
       <mask>*.es</mask>
-      <mask>*.jsx</mask>
       <mask>*.css</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*Container*.es6x</mask>
       <mask>*.es6x</mask>
       <mask>*.es6</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
