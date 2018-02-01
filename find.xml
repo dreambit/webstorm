@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
+      <mask>*.ыс</mask>
+      <mask>*.ы</mask>
+      <mask>*.jx</mask>
+      <mask>*es</mask>
+      <mask>*e</mask>
+      <mask>*.tsx</mask>
+      <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.se</mask>
+      <mask>*.js]</mask>
+      <mask>*.уы6ч</mask>
       <mask>*.уы6</mask>
       <mask>*.уы</mask>
       <mask>*.у</mask>
-      <mask>*.es6</mask>
-      <mask>*.js</mask>
-      <mask>*.es</mask>
-      <mask>*.es6x</mask>
-      <mask>*.e</mask>
-      <mask>**.java</mask>
-      <mask>*T*.java</mask>
-      <mask>*Te*.java</mask>
-      <mask>*Tes*.java</mask>
-      <mask>*Test*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.jx</mask>
-      <mask>*.j</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.prope</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.propertie</mask>
-      <mask>*.properties</mask>
-      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.e</mask>
+      <mask>*.es</mask>
+      <mask>*.es6</mask>
+      <mask>*.jsx</mask>
+      <mask>*.es6x</mask>
+      <mask>*.css</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
