@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.es6x" />
     <recentFileMasks>
       <mask>*e</mask>
       <mask>*.tsx</mask>
@@ -29,12 +29,12 @@
       <mask>*Container*.es6x</mask>
       <mask>*.es6</mask>
       <mask>*.scss</mask>
-      <mask>*.es6x</mask>
       <mask>*.js</mask>
       <mask>*es6x</mask>
       <mask>*js</mask>
       <mask>*.jsx</mask>
       <mask>*.java</mask>
+      <mask>*.es6x</mask>
     </recentFileMasks>
   </component>
 </application>
