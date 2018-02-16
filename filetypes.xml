@@ -7,6 +7,7 @@
       <mapping pattern="context-xml" type="PLAIN_TEXT" />
       <mapping pattern="portfolio" type="PLAIN_TEXT" />
       <mapping pattern="Placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="Actions" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
