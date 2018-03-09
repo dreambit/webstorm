@@ -7,11 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.es6x" />
     <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.se</mask>
-      <mask>*.js]</mask>
       <mask>*.уы6ч</mask>
       <mask>*.уы6</mask>
       <mask>*.уы</mask>
@@ -25,20 +21,23 @@
       <mask>*js</mask>
       <mask>*.java</mask>
       <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.ex6x</mask>
       <mask>*.ex6</mask>
       <mask>*.ex</mask>
-      <mask>*.es6</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
+      <mask>*.ses6</mask>
+      <mask>*.ses</mask>
+      <mask>*.se</mask>
       <mask>*.es6x</mask>
+      <mask>*.es6</mask>
+      <mask>*.es</mask>
+      <mask>*.e</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
