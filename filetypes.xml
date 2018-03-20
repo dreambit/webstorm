@@ -12,6 +12,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="es6x" type="JSX Harmony" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="portfolioFilters" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="context-xml" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping pattern="Placeholder" type="PLAIN_TEXT" />
       <mapping pattern="Actions" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
