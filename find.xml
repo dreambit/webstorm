@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.es6" />
     <recentFileMasks>
       <mask>*e</mask>
       <mask>*.tsx</mask>
@@ -34,9 +34,9 @@
       <mask>*.java</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
-      <mask>*.es6</mask>
-      <mask>*.es6x</mask>
       <mask>*.scss</mask>
+      <mask>*.es6x</mask>
+      <mask>*.es6</mask>
     </recentFileMasks>
   </component>
 </application>
