@@ -6,37 +6,15 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.es6x" />
-    <recentFileMasks>
-      <mask>*e</mask>
-      <mask>*.tsx</mask>
-      <mask>*.ts</mask>
-      <mask>*.t</mask>
-      <mask>*.se</mask>
-      <mask>*.js]</mask>
-      <mask>*.уы6ч</mask>
-      <mask>*.уы6</mask>
-      <mask>*.уы</mask>
-      <mask>*.у</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.e</mask>
-      <mask>*.es</mask>
-      <mask>*.css</mask>
-      <mask>*Container*.es6x</mask>
-      <mask>*es6x</mask>
-      <mask>*js</mask>
-      <mask>*.java</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>*.scss</mask>
-      <mask>*.es6</mask>
-      <mask>*.es6x</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.es6x</mask>
   </component>
 </application>
