@@ -16,9 +16,9 @@
     <mask>*.mxml</mask>
     <mask>*Container*.es6x</mask>
     <mask>*.jsx</mask>
-    <mask>*.es6</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.es6</mask>
     <mask>*.es6x</mask>
   </component>
 </application>
