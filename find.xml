@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,11 +12,11 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*Container*.es6x</mask>
-    <mask>*.css</mask>
     <mask>*.jsx</mask>
     <mask>*.es6</mask>
     <mask>*.scss</mask>
     <mask>*.es6x</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
